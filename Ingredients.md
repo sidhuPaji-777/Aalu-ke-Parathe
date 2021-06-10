@@ -1,6 +1,6 @@
 # Ingredients
 
-> ingredients are 
+> ingredients are here
   * Potato
   * Flour
   * Spices
