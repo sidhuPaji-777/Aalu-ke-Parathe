@@ -1,2 +1,13 @@
-# Here i want to create aalu ke parathe. ingredients are in ingredients.md and recipe was in recipe.md
-# Thankyou
+# Aalu-ke-Parathe
+
+### Aalu ke Prathe
+
+#### Ingredients
+> Ingredients are in Ingredients.md file
+
+
+#### Recipe
+> Recipe was in Recipe.md file
+
+
+## Enjoy your Aalu ka Paratha
